@@ -1,0 +1,8 @@
+{
+  "name": "Aprendo Jugando - Venezuela",
+  "description": "Una plataforma educativa para niños de 6 años enfocada en el desarrollo psicomotriz y la lectura, adaptada con cultura venezolana.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
